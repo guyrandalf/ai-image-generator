@@ -142,12 +142,12 @@ form button:hover {
 /* Image */
 
 .image {
-	/* width: 100%; */
+	width: 100%;
 	margin-top: 2rem;
 }
 
 img {
-	width: 100%;
+	/* width: 100%; */
 	display: block;
 	margin: auto;
 }
