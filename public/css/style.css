@@ -33,7 +33,7 @@ body {
 
 main {
 	display: grid;
-	grid-template-columns: 400px 800px;
+	grid-template-columns: repeat(2, 1fr);
 	/* justify-content: center; */
 	align-items: center;
 	padding: 10px;
